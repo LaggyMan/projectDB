@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/background.jpg</file>
+        <file>img/anime-peyzazh-fon-bashnya-milashka-3623.jpg</file>
+        <file>img/Black.jpg</file>
+    </qresource>
+</RCC>
